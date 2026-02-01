@@ -31,7 +31,6 @@ public class MergeDetails {
   }
 
   public List<Integer> getArray1() {
-    //Yello
     return array1;
   }
 
